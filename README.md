@@ -2,6 +2,13 @@
 
 This repository help customers to use [HashiCorp Terraform](https://www.terraform.io/) over multiple modules.
 
+|-------------------|----------------------
+| courses variant   | Link
+|-------------------|----------------------
+| Main course       | [main](https://github.com/sfeir-open-source/sfeir-school-terraform)
+| AWS tiny training | [AWS tiny training - 2H branch](https://github.com/sfeir-open-source/sfeir-school-terraform/tree/aws-tiny-training)
+|-------------------|----------------------
+
 ## Modules
 
 Each module can be run independently
