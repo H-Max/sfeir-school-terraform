@@ -1,14 +1,14 @@
 // One method per module
 function schoolSlides() {
-  return ['00-school/00-TITLE.md', '00-school/speaker-jna.md','00-school/speaker-mda.md','00-school/speaker-ame.md','00-school/speaker-lbi.md','00-school/planning.md'];
+  return ['00-school-aws-tiny/00-TITLE.md', '00-school-aws-tiny/speaker-cla.md','00-school-aws-tiny/planning.md'];
 }
 
 function introSlides() {
-  return ['01_intro/00-TITLE.md'];
+  return ['01_intro-aws-tiny/00-TITLE.md'];
 }
 
 function premiersPasSlides() {
-  return ['02_premiers_pas/00-TITLE.md'];
+  return ['02_premiers_pas-aws-tiny/00-TITLE.md'];
 }
 
 function langagesSlides() {
